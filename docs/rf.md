@@ -26,3 +26,43 @@ O sistema deve permitir que o usuário solicite a exclusão permanente do seu pe
 
 ### RF09 — Configurações de privacidade
 O sistema deve permitir que o usuário gerencie as preferências de privacidade, como tornar o perfil público ou privado.
+
+### RF10 — Alteração de senha
+
+O sistema deve permitir que o usuário altere sua senha mediante confirmação da senha atual.
+
+### RF11 — Autenticação em dois fatores (2FA)
+
+O sistema deve permitir que o usuário ative a autenticação em dois fatores para aumentar a segurança da conta.
+
+### RF12 — Histórico de atividades
+
+O sistema deve permitir que o usuário visualize o histórico de atividades realizadas em sua conta (logins, alterações de perfil, etc.).
+
+### RF13 — Pesquisa interna
+
+O sistema deve permitir que o usuário realize buscas dentro da plataforma para localizar informações específicas.
+
+### RF14 — Upload de arquivos
+
+O sistema deve permitir que o usuário envie arquivos (imagens ou documentos) vinculados ao seu perfil ou atividades.
+
+### RF15 — Gerenciamento de sessões
+
+O sistema deve permitir que o usuário visualize e encerre sessões ativas em outros dispositivos.
+
+### RF16 — Sistema de mensagens
+
+O sistema deve permitir que usuários troquem mensagens entre si dentro da plataforma.
+
+### RF17 — Integração com redes sociais
+
+O sistema deve permitir que o usuário realize login utilizando contas de terceiros (ex: Google ou Facebook).
+
+### RF18 — Exportação de dados
+
+O sistema deve permitir que o usuário exporte seus dados pessoais em formato digital (ex: PDF ou CSV).
+
+### RF19 — Suporte ao usuário
+
+O sistema deve permitir que o usuário abra chamados ou envie solicitações de suporte diretamente pela plataforma.
