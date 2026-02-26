@@ -9,3 +9,30 @@ Usuários inativos por mais de 90 dias devem ser marcados como inativos.
 ### RN02 — Limite de tentativas de login
 Após 5 tentativas inválidas, a conta deve ser temporariamente bloqueada.
 
+### RN04 — Unicidade de e-mail
+
+Não pode existir mais de uma conta cadastrada com o mesmo e-mail no sistema.
+
+### RN05 — Validação de senha
+
+A senha deve conter no mínimo 8 caracteres, incluindo letras maiúsculas, minúsculas, números e caracteres especiais.
+
+### RN06 — Confirmação de e-mail
+
+A conta só poderá ser ativada após a confirmação do e-mail cadastrado.
+
+### RN07 — Exclusão definitiva
+
+Após a solicitação de exclusão de conta, os dados do usuário devem ser permanentemente removidos após um prazo de 30 dias.
+
+### RN08 — Atualização de dados sensíveis
+
+Alterações de dados sensíveis (como e-mail ou senha) devem exigir confirmação adicional do usuário.
+
+### RN09 — Política de privacidade obrigatória
+
+O usuário deve aceitar os termos de uso e a política de privacidade antes de concluir o cadastro.
+
+### RN10 — Foto de perfil
+
+A foto de perfil deve respeitar os formatos permitidos (ex: JPG ou PNG) e limite máximo de tamanho definido pelo sistema.
